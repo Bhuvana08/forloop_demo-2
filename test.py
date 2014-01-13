@@ -7,3 +7,6 @@ def foor():
 		print i
 
 print "manmohan"
+
+
+print "hello"
